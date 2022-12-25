@@ -2,7 +2,7 @@
 layout: post
 title: Ways to write optimized SQL Queries in industry
 category: [ Data_Science, SQL, Tutorial ]
-image: assets/images/optimize-query-blog.jpeg
+image: assets/images/optimize-query-blog.webp
 tags: [ featured, sticky ]
 ---
 

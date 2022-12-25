@@ -8,7 +8,7 @@ tags: [ featured ]
 ---
 Nowadays, we are seeing different complex applications of Neural Network based algorithms like OpenAI DALL-E, DeepFake, etc, which makes us think is it possible that ANNs (Artificial Neural Networks) can solve and are suitable for every problem? Let’s figure it out.
 
-For those who don’t have an idea about what are Neural Networks, then in Layman's terms, it is an algorithm which is a replica of the Human Brain and tries to understand complex patterns in data easily. You can learn more about it [here](https://www.investopedia.com/terms/n/neuralnetwork.asp).
+For those who don’t have an idea about what are Neural Networks, then in Layman's terms, it is an algorithm which is a replica of the Human Brain and tries to understand complex patterns in data easily. You can learn more about it [here](https://www.investopedia.com/terms/n/neuralnetwork.asp){:target="_blank"}.
 
 Why is so much Hype around Neural Networks?
 ===========================================
@@ -17,9 +17,7 @@ There are possibly 2 reasons which are responsible for it: Data and Computationa
 
 1.  **Data:** From the last decade, there is being exponential growth in Data collection recorded, which contains almost every behaviour, and pattern of activities observed regularly, and as Data increases, it makes ANNs more powerful and generalized to a unified set of equations.
 
-Comparison of Performance v/s Amount of Data among Deep Learning and traditional algorithms ([source](https://builtin.com/data-science/disadvantages-neural-networks))
-
-2\. **Computational Power:** As data is increasing, processing or computation power is also needed to be high, from the past couple of years, we have seen that major driver companies like Nvidia and Tesla had developed breakthroughs in computational hardware, which are not possible around 20–30 years ago, which becomes the most obvious reasons why ANNs not popular in that era.
+2. **Computational Power:** As data is increasing, processing or computation power is also needed to be high, from the past couple of years, we have seen that major driver companies like Nvidia and Tesla had developed breakthroughs in computational hardware, which are not possible around 20–30 years ago, which becomes the most obvious reasons why ANNs not popular in that era.
 
 Disadvantages of Neural Networks
 ================================

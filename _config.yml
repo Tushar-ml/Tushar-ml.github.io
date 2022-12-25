@@ -4,6 +4,7 @@ description: 'Mundana is a free Jekyll theme for awesome people like you, Medium
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ''
+url: 'https://tushar-ml.github.io'
 disqus: 'qurious-1'
 email: 'tushar.goel.ml@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -18,7 +19,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-analytics
 
 authors:
     tushar:
@@ -52,11 +52,6 @@ highlighter: rouge
 
 # Paginate
 paginate: 10
-
-jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-9QG9YKEFNH          # Required - replace with your tracking id
-    anonymizeIp: false
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
