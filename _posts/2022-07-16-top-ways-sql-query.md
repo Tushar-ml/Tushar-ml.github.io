@@ -4,6 +4,7 @@ title: Ways to write optimized SQL Queries in industry
 category: [ Data_Science, SQL, Tutorial ]
 image: assets/images/optimize-query-blog.webp
 tags: [ featured, sticky ]
+comments: true
 ---
 
 SQL is the most used language in the industries nowadays for maintaining the increasing data fuel to have a data-driven approach in their growth and It is becoming very important to write optimized and efficient queries to achieve this.

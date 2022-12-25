@@ -5,6 +5,7 @@ title: "Why I chose to switch from Pandas to PySpark"
 categories: [ Machine_Learning, PySpark ]
 tags: [ featured ]
 image: assets/images/pyspark-over-pandas.webp
+comments: true
 ---
 
 In recent years, we have seen an increase in data, and as result, it increases the computational time and memory as well. Tools like Pandas which works sequentially fail to achieve the result in the required time in case of large datasets.

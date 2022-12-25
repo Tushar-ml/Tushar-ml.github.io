@@ -5,6 +5,7 @@ title: Neural Network - should not be the first solution
 category: [ Machine_Learning ]
 image: assets/images/neural-network-image.webp
 tags: [ featured ]
+comments: true
 ---
 Nowadays, we are seeing different complex applications of Neural Network based algorithms like OpenAI DALL-E, DeepFake, etc, which makes us think is it possible that ANNs (Artificial Neural Networks) can solve and are suitable for every problem? Let’s figure it out.
 
