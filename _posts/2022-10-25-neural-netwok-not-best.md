@@ -1,12 +1,16 @@
 ---
+title: Neural Network - should not be the first solution
+date: 2022-10-25 00:00:00 Z
+categories:
+- Machine_Learning
+tags:
+- featured
 layout: post
 author: tushar
-title: Neural Network - should not be the first solution
-category: [ Machine_Learning ]
 image: assets/images/neural-network-image.webp
-tags: [ featured ]
 comments: true
 ---
+
 Nowadays, we are seeing different complex applications of Neural Network based algorithms like OpenAI DALL-E, DeepFake, etc, which makes us think is it possible that ANNs (Artificial Neural Networks) can solve and are suitable for every problem? Let’s figure it out.
 
 For those who don’t have an idea about what are Neural Networks, then in Layman's terms, it is an algorithm which is a replica of the Human Brain and tries to understand complex patterns in data easily. You can learn more about it [here](https://www.investopedia.com/terms/n/neuralnetwork.asp){:target="_blank"}.

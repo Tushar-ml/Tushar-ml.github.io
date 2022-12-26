@@ -1,9 +1,14 @@
 ---
-layout: post
 title: Ways to write optimized SQL Queries in industry
-category: [ Data_Science, SQL, Tutorial ]
+date: 2022-07-16 00:00:00 Z
+categories:
+- Data_Science
+- SQL
+- Tutorial
+tags:
+- featured
+layout: post
 image: assets/images/optimize-query-blog.webp
-tags: [ featured ]
 comments: true
 ---
 

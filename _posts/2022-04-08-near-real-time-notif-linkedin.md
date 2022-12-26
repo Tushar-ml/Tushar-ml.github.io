@@ -1,11 +1,14 @@
 ---
+title: Near Real-Time Optimization of Notifications at LinkedIn
+date: 2022-04-08 00:00:00 Z
+categories:
+- Machine_Learning
 layout: post
 author: tushar
-title: "Near Real-Time Optimization of Notifications at LinkedIn"
-categories: [ Machine_Learning ]
 image: assets/images/real-time-optimization.webp
 comments: true
 ---
+
 In recent years, we have come across different social media applications (e.g. Facebook, LinkedIn, Whatsapp, Twitter), that provides enormous value to members, due to their high usage and engagement. As these types of applications are so-called **Social Media** requires users to visit and their engagement to work, they either engage users _organically_ (through their content without any extra effort) or by providing timely, highly content riched _notifications_.
 
 As a result of increasing mobile penetration and the increasing amount of time spent on mobile phones, mobile traffic (primarily native app traffic) now accounts for the majority of usage, therefore, engaging the user through a mobile notification is a more feasible and promising action than emails.

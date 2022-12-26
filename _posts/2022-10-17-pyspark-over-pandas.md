@@ -1,9 +1,13 @@
 ---
+title: Why I chose to switch from Pandas to PySpark
+date: 2022-10-17 00:00:00 Z
+categories:
+- Machine_Learning
+- PySpark
+tags:
+- featured
 layout: post
 author: tushar
-title: "Why I chose to switch from Pandas to PySpark"
-categories: [ Machine_Learning, PySpark ]
-tags: [ featured ]
 image: assets/images/pyspark-over-pandas.webp
 comments: true
 ---
