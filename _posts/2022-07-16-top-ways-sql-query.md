@@ -1,6 +1,5 @@
 ---
 title: Ways to write optimized SQL Queries in industry
-date: 2022-07-16 00:00:00 Z
 categories:
 - Data_Science
 - SQL

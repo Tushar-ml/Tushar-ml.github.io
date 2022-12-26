@@ -1,6 +1,5 @@
 ---
 title: Near Real-Time Optimization of Notifications at LinkedIn
-date: 2022-04-08 00:00:00 Z
 categories:
 - Machine_Learning
 layout: post
