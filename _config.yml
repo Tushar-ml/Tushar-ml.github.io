@@ -25,7 +25,7 @@ authors:
     tushar:
       name:           Tushar
       linkedin:       https://www.linkedin.com/in/tushargoel-code
-      avatar:         assets/images/avatar-tushar.png
+      avatar:         assets/images/avatar-tushar.webp
       bio:            "Hi, I am Tushar, the author of Qurious and Senior ML Engineer, talks about ML and Quantum-Astro Physics"
       email:          tushar.goel.ml@gmail.com
       twitter:        https://twitter.com/tushargoel_ai
@@ -39,7 +39,7 @@ defaults:
     values:
       layout: post
       author: tushar
-      avatar: assets/images/avatar-tushar.png
+      avatar: assets/images/avatar-tushar.webp
       
   # all pages
   - scope:
