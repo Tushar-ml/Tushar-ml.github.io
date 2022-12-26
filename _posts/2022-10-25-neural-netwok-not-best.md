@@ -1,5 +1,6 @@
 ---
 title: Neural Network - should not be the first solution
+date: 2022-10-25 00:00:00 Z
 categories:
 - Machine_Learning
 tags:
