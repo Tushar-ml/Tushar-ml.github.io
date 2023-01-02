@@ -42,7 +42,7 @@ Here comes are saviour Machine Learning
 
 ![ml-wormhole-optimization](/assets/images/ml-wormhole-google.png)
 
-They began with a big quantum system and handled it like a neural network. Backpropagation updated the system's parameters in order to retain gravitational qualities, while sparsification lowered the system's size. They used machine learning to train a system that retained only one important gravitational signature: the importance of deploying a negative energy shockwave. The procedure reduced the number of four-way interactions from hundreds down to five.
+They began with a big quantum system and handled it like a neural network. Backpropagation updated the system's parameters in order to retain gravitational qualities, while sparsification lowered the system's size. They used machine learning to train a system that retained only one important gravitational signature: the importance of deploying a negative energy shockwave.The approach reduced hundreds of multiple interactions to only five.
 
 This is holographically dual to the qubit entering the left mouth of a one-dimensional wormhole in AdS space.
 
